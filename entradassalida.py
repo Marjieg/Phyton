@@ -6,3 +6,4 @@ area=int(base)*int(altura)
 
 print(area)
 print(perimetro)
+
